@@ -17,3 +17,11 @@ img {
 p.time {
   color: gray;
 }
+
+.external-link {
+  color: SeaGreen;
+}
+
+h1, h2, p, li {
+  font-family: Helvetica;
+}
